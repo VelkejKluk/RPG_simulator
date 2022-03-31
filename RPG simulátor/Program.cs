@@ -61,7 +61,7 @@ while(true)
     if (unava == 40)
     {
         Console.Clear();
-        Console.WriteLine("Zemřel jsi únavou v boji. Přeji ti hodně štěstí příště...");
+        Console.WriteLine("Zemřel jsi únavou v boji. Přeji ti příště hodně štěstí...");
         break;
 
     }
